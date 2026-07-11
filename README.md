@@ -1,6 +1,6 @@
 # Roblox Runtime Terrain
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![License](https://img.shields.io/badge/license-CC0%201.0-lightgrey.svg)
 
 An open-source runtime terrain generation system for Roblox featuring chunk streaming, Parallel Luau, caves, springs, and procedural vegetation.
 
@@ -256,4 +256,4 @@ If you use this system in a project, I would love to see what you make with it.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is released under [CC0 1.0 Universal](LICENSE) — public domain dedication. You can use, modify, and redistribute it without attribution.
