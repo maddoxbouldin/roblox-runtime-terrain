@@ -5,7 +5,7 @@
 An open-source runtime terrain generation system for Roblox featuring chunk streaming, Parallel Luau, caves, springs, and procedural vegetation.
 
 <p align="center">
-  <img src="docs/images/terrain-caves.jpg" alt="Generated caves" width="49%">
+  <img src="https://github.com/maddoxbouldin/roblox-runtime-terrain/blob/main/docs/images/terrain-forest.png" alt="Generated caves" width="49%">
   <img src="docs/images/terrain-forest.jpg" alt="Generated forest" width="49%">
 </p>
 
